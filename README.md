@@ -2,7 +2,7 @@
 
 **`Analista de dados / Governança de TI`**
 
-Me chamo Felipe Andrade Novais, tenho 21 anos e sou do estado de São Paulo. Atualmente, estou cursando Ciência da Computação na USTJ (8 Semestre). Trabalho a 3 anos com TI, atuando em áreas como suporte e governança, e atualmente estou aprofundando meus conhecimentos na área de dados.
+Me chamo Felipe Andrade Novais, tenho 21 anos e sou do estado de São Paulo. Formado em Ciências da Computação pela Universidade São Judas Tadeu, trabalho a 3 anos na área de TI com experiência em suporte e governança, e atualmente estou aprofundando meus conhecimentos na área de dados.
 
 ## 📊 Linguagens e tecnologias
 
