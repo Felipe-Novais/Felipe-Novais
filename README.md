@@ -1,10 +1,10 @@
-# 👨‍💻 Felipe Novais
+# Felipe Novais
 
-**`Analista de dados / Governança de TI`**
+**`Data Analyst / IT Governance`**
 
-Me chamo Felipe Andrade Novais, tenho 22 anos e sou do estado de São Paulo. Formado em Ciências da Computação pela Universidade São Judas Tadeu, trabalho a 3 anos com TI, atuando em áreas como suporte e governança, e atualmente estou aprofundando meus conhecimentos na área de dados.
+My name is Felipe Andrade Novais, I am 22 years old and I am from the state of São Paulo. I graduated in Computer Science from São Judas Tadeu University, I have been working in IT for 3 years, in areas such as support and governance, and I am currently deepening my knowledge in ​​data with tools such as PostgreSQL, Python and Power BI.
 
-## 📊 Linguagens e tecnologias
+## Programming languages and tecnologies
 
 <img
     align="left"
@@ -14,21 +14,37 @@ Me chamo Felipe Andrade Novais, tenho 22 anos e sou do estado de São Paulo. For
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
+<img
     align="left"
-    alt="SQLServer"
-    title="SQLServer"
+    alt="Pandas"
+    title="Pandas"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
 <img
     align="left"
-    alt="MYSql"
-    title="MYSql"
+    alt="Spark"
+    title="Spark"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
+/>
+<img 
+    align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img
+    align="left"
+    alt="DBeaver"
+    title="DBeaver"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
 />
 <img
     align="left"
@@ -36,7 +52,7 @@ Me chamo Felipe Andrade Novais, tenho 22 anos e sou do estado de São Paulo. For
     title="PowerBI"
     width="30px"
     style="padding-right: 10px;"
-    src=".\powerbi.png"
+    src=".\images\powerbi.png"
 />
 <img
     align="left"
@@ -44,7 +60,7 @@ Me chamo Felipe Andrade Novais, tenho 22 anos e sou do estado de São Paulo. For
     title="Excel"
     width="30px"
     style="padding-right: 10px;"
-    src=".\excel.png" 
+    src=".\images\excel.png" 
 />
 <img
     align="left"
@@ -62,3 +78,13 @@ Me chamo Felipe Andrade Novais, tenho 22 anos e sou do estado de São Paulo. For
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
+<br>
+## Projects
+
+### SQL
+- [Contoso 100k Analysis](https://github.com/Felipe-Novais/Contoso-100k-Analysis)
+- [Layoff Database Analysis](https://github.com/Felipe-Novais/Layoff-Database-Analysis)
+
+### Power BI
+- [Data Jobs Analysis V1](https://github.com/Felipe-Novais/Data-Jobs-Analysis-V1)
+- [Data Jobs Analysis V2](https://github.com/Felipe-Novais/Data-Jobs-Analysis-V2)
