@@ -2,7 +2,7 @@
 
 **`Data Analyst / IT Governance`**
 
-My name is Felipe Andrade Novais, I am 22 years old and I am from the state of São Paulo. I graduated in Computer Science from São Judas Tadeu University, I have been working in IT for 3 years, in areas such as support and governance, and I am currently deepening my knowledge in ​​data with tools such as PostgreSQL, Python and Power BI.
+My name is Felipe Andrade Novais, I am 22 years old and I am from the state of São Paulo. I graduated in Computer Science from São Judas Tadeu University, I have been working in IT for 3 years, in areas such as support and governance, and I am currently deepening my knowledge in ​​data with tools such as SQL, Python and Power BI.
 
 ## Programming languages and tecnologies
 
