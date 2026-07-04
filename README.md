@@ -22,6 +22,16 @@ My name is Felipe Andrade Novais, I am 22 years old and I am from the state of S
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
+
+<img
+    align="left"
+    alt="Pandas"
+    title="Matplotlib"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+/>
+          
 <img
     align="left"
     alt="Spark"
@@ -88,3 +98,6 @@ My name is Felipe Andrade Novais, I am 22 years old and I am from the state of S
 ### Power BI
 - [Data Jobs Analysis V1](https://github.com/Felipe-Novais/Data-Jobs-Analysis-V1)
 - [Data Jobs Analysis V2](https://github.com/Felipe-Novais/Data-Jobs-Analysis-V2)
+
+### Python
+- [Data Jobs Python Analysis](https://github.com/Felipe-Novais/Data-Jobs-Python-Analysis)
